@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Caminho_Arqs/Caminho_Arqs.iml" filepath="$PROJECT_DIR$/Caminho_Arqs/Caminho_Arqs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader_BufferedReader/FileReader_BufferedReader.iml" filepath="$PROJECT_DIR$/FileReader_BufferedReader/FileReader_BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWriter_BufferedWriter/FileWriter_BufferedWriter.iml" filepath="$PROJECT_DIR$/FileWriter_BufferedWriter/FileWriter_BufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManipulandoArqs/ManipulandoArqs.iml" filepath="$PROJECT_DIR$/ManipulandoArqs/ManipulandoArqs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando com Arquivos.iml" filepath="$PROJECT_DIR$/Trabalhando com Arquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try_Resources/Try_Resources.iml" filepath="$PROJECT_DIR$/Try_Resources/Try_Resources.iml" />
+    </modules>
+  </component>
+</project>
